@@ -1,32 +1,32 @@
 <h1 align="center">Hi 👋, I'm Humema Israr</h1>
 <h3 align="center">
-✨ Passionate Full-Stack Developer | Python & Agentic AI Learner ✨
+✨ Full-Stack Developer | Python & Agentic AI Learner ✨
 </h3>
 
 <p align="center">
-I love turning <b>creative ideas</b> into <b>real, interactive applications</b> 🚀 <br/>
-Focused on clean logic, modern tools, and continuous learning.
+I enjoy transforming <b>creative ideas</b> into <b>practical, interactive applications</b> 🚀 <br/>
+Focused on clean code, modern technologies, and continuous learning.
 </p>
 
-<img align="right" alt="Coding Girl" width="380"
+<img align="right" alt="Coding Girl" width="360"
 src="https://img.pikbest.com/png-images/20241221/hijab-muslimah-vector-with-manga-style_11284652.png!sw800"/>
 
 ---
 
 ## 🌸 About Me
 
-I’m **Humema Israr**, a motivated and passionate developer who enjoys building meaningful digital experiences.  
-I have a strong interest in **Full-Stack Web Development**, and I’m actively exploring **Python** and **Agentic AI** to stay aligned with modern technology.
+I am **Humema Israr**, a dedicated and motivated developer with a strong passion for building meaningful digital solutions.  
+My primary focus is on **Full-Stack Web Development**, while actively expanding my expertise in **Python** and **Agentic AI**.
 
-I believe in **learning by building real projects**, improving step by step, and writing clean, understandable code.  
-My goal is to grow into a **skilled software developer** and contribute to impactful and innovative solutions.
+I believe in **learning through hands-on projects**, continuous improvement, and writing clean, maintainable code.  
+My long-term goal is to become a **skilled software developer** and contribute to impactful, real-world technologies.
 
 ---
 
 ## 📚 Currently Learning
 - 🧠 **Spec-Driven Development**
 - 🤖 **Agentic AI** (Agents, Context, Tools, Guardrails)
-- 🌐 **Modern Full-Stack Practices**
+- 🌐 **Modern Full-Stack Development Practices**
 
 ---
 
@@ -40,7 +40,7 @@ My goal is to grow into a **skilled software developer** and contribute to impac
 - ✍️ Prompt Engineering  
 - 🧩 Context Management  
 - 🌐 HTML, CSS, JavaScript  
-- 🗄️ APIs & Databases  
+- 🗄️ REST APIs & Databases  
 
 ---
 
@@ -59,15 +59,22 @@ My goal is to grow into a **skilled software developer** and contribute to impac
 ## 🤝 Connect With Me
 <p align="left">
   <a href="mailto:humema.israr09@gmail.com">
-    <img src="www.linkedin.com/in/humema-israr-b184342b5" Hi 👋, I'm Humema Israr/h1>
-<h3 align="center">
-✨ Passionate Full-Stack Developer | Python & Agentic AI Learner ✨
-</h3>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+      width="45" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/humema-israr-b184342b5/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      width="45" height="35" />
+  </a>
+</p>
+
+---
 
 <p align="center">
-I love turning <b>creative ideas</b> into <b>real, interactive applications</b> 🚀 <br/>
-Focused on clean logic, modern tools, and continuous learning.
+✨ Thank you for visiting my profile! <br/>
+Feel free to explore my repositories and follow my learning journey 🌱💻
 </p>
+
 
 
 
