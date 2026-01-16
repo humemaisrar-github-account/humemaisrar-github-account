@@ -59,7 +59,7 @@ My goal is to grow into a **skilled software developer** and contribute to impac
 ## 🤝 Connect With Me
 <p align="left">
   <a href="mailto:humema.israr09@gmail.com">
-    <img src="<h1 align="center">Hi 👋, I'm Humema Israr/h1>
+    <img src="www.linkedin.com/in/humema-israr-b184342b5" "<h1 align="center">Hi 👋, I'm Humema Israr/h1>
 <h3 align="center">
 ✨ Passionate Full-Stack Developer | Python & Agentic AI Learner ✨
 </h3>
