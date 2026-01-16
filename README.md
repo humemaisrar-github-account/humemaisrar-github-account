@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Humema Israr</h1>
 <h3 align="center">
-✨ Full-Stack Developer | Python & Agentic AI Learner ✨
+✨ Frontend Developer | Python & Agentic AI Learner ✨
 </h3>
 
 <p align="center">
@@ -16,7 +16,7 @@ src="https://img.pikbest.com/png-images/20241221/hijab-muslimah-vector-with-mang
 ## 🌸 About Me
 
 I am **Humema Israr**, a dedicated and motivated developer with a strong passion for building meaningful digital solutions.  
-My primary focus is on **Full-Stack Web Development**, while actively expanding my expertise in **Python** and **Agentic AI**.
+My primary focus is on **Forntend Web Development**, while actively expanding my expertise in **Python** and **Agentic AI**.
 
 I believe in **learning through hands-on projects**, continuous improvement, and writing clean, maintainable code.  
 My long-term goal is to become a **skilled software developer** and contribute to impactful, real-world technologies.
@@ -39,8 +39,8 @@ My long-term goal is to become a **skilled software developer** and contribute t
 - 🤖 OpenAI SDK  
 - ✍️ Prompt Engineering  
 - 🧩 Context Management  
-- 🌐 HTML, CSS, JavaScript  
-- 🗄️ REST APIs & Databases  
+- 🌐 HTML, CSS, JavaScript , Typscript , Next.js 
+- 🗄️ REST APIs  
 
 ---
 
