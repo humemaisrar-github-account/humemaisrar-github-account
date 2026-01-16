@@ -9,7 +9,7 @@ Focused on clean logic, modern tools, and continuous learning.
 </p>
 
 <img align="right" alt="Coding Girl" width="380"
-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+src="https://img.pikbest.com/png-images/20241221/hijab-muslimah-vector-with-manga-style_11284652.png!sw800"/>
 
 ---
 
@@ -69,9 +69,6 @@ I love turning <b>creative ideas</b> into <b>real, interactive applications</b> 
 Focused on clean logic, modern tools, and continuous learning.
 </p>
 
-<img align="right" alt="Coding Girl" width="380"
-src="https://img.pikbest.com/png-images/20241221/hijab-muslimah-vector-with-manga-style_11284652.png!sw800">
 
----
 
 
